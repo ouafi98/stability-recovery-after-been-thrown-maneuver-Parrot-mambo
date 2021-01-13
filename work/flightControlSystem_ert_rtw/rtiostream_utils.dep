@@ -1,0 +1,11 @@
+rtiostream_utils.o rtiostream_utils.o: \
+ /usr/local/MATLAB/R2020b/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ /usr/local/MATLAB/R2020b/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ /home/ouafo/MATLAB/projects/examples/parrotMinidroneHover29/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ /usr/local/MATLAB/R2020b/toolbox/coder/rtiostream/src/rtiostream.h
+
+/usr/local/MATLAB/R2020b/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+/home/ouafo/MATLAB/projects/examples/parrotMinidroneHover29/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+/usr/local/MATLAB/R2020b/toolbox/coder/rtiostream/src/rtiostream.h:

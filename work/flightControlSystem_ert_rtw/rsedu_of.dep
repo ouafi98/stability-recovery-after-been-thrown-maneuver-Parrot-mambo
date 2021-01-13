@@ -1,0 +1,14 @@
+rsedu_of.o rsedu_of.o: \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/src/rsedu_of.c \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_of.h \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_globalparams.h \
+ /home/ouafo/MATLAB/projects/examples/parrotMinidroneHover29/work/flightControlSystem_ert_rtw/MW_target_hardware_resources.h \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/ptimer.h
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_of.h:
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_globalparams.h:
+
+/home/ouafo/MATLAB/projects/examples/parrotMinidroneHover29/work/flightControlSystem_ert_rtw/MW_target_hardware_resources.h:
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/ptimer.h:

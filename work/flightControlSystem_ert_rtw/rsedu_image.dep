@@ -1,0 +1,11 @@
+rsedu_image.o rsedu_image.o: \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/src/rsedu_image.c \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_image.h \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_vis.h \
+ /home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_globalparams.h
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_image.h:
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_vis.h:
+
+/home/ouafo/Documents/MATLAB/SupportPackages/R2020b/toolbox/target/supportpackages/parrot/include/rsedu_globalparams.h:

@@ -1,0 +1,1 @@
+# Automatic-re-initialization-and-stability-recovery-after-aggressive-maneuver.Parrot-mambo-simulink
